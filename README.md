@@ -1,8 +1,8 @@
 # CynOS
-A Toy OS that I am working on
+A Toy x86 OS that I am working on
 
 ## What does it do so far?
-1. It boots from GRUB in Protected mode.
+1. It boots from GRUB into Protected mode.
 2. Then sort of can write to VGA Data, currently working on getting it to be able to change the screen to a single color.
 
 tl;dr not much
