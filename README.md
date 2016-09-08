@@ -1,5 +1,5 @@
 # CynOS
-A Toy x86 OS that I am working on
+A toy x86 OS that I am working on
 
 ## What does it do so far?
 1. It is able to boot with GRUB into protected mode.
