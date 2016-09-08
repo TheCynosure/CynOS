@@ -2,8 +2,8 @@
 A Toy x86 OS that I am working on
 
 ## What does it do so far?
-1. It boots from GRUB into Protected mode.
-2. Then sort of can write to VGA Data, currently working on getting it to be able to change the screen to a single color.
+1. It is able to boot with GRUB into protected mode.
+2. Then sort of can write to VGA Data, currently working on writing to multiple rows in the VGA Data.
 
 tl;dr not much
 
