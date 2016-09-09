@@ -11,3 +11,5 @@ What it currently looks like:
 
 
 I will try and update the repository with most of the reference material that I am using to build this project. Some of the files also have links to their sources if they are based on someone elses work.
+
+-- Project is being put on hold while I am reading and studying topics needed to work on the Operating System. No I have not abandoned it.
