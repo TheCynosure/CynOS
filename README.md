@@ -13,7 +13,7 @@ What it currently looks like: (A little different now but same string and stuff)
 
 I will try and update the repository with most of the reference material that I am using to build this project. Some of the files also have links to their sources if they are based on someone elses work.
 
-Here is what I have used and benefitted from so far:
+Here is what I have used and benefited from so far:
 
 http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel
 
