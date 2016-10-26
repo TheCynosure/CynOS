@@ -20,3 +20,5 @@ http://arjunsreedharan.org/post/82710718100/kernel-101-lets-write-a-kernel
 http://os.phil-opp.com/printing-to-screen.html
 
 http://wiki.osdev.org/GCC_Cross-Compiler <-- (Please if you want to do this project, FOLLOW THIS FIRST)
+
+THIS PROJECT IS STILL UNDER DEVELOPEMENT, BUT I AM CURRENTLY DOING RESEARCH
